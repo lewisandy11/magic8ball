@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class Magic8ball {
 
     public static void main(String[] args) {
+        // HI ANDYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
         System.out.println("What is thy question bitch");
         Scanner scan = new Scanner(System.in);
         scan.next();
