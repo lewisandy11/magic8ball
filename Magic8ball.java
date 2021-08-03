@@ -10,6 +10,7 @@ public class Magic8ball {
         scan.close();
 
         Random rand = new Random();
+
         int r = rand.nextInt(5);
 
         if (r == 0) {
